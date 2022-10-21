@@ -57,7 +57,7 @@ h2{
 
 body{
     background-color: dimgray;
-    background-image: url(C:/Users/Alguien/Documents/Diego/HMTLCSS/boot/images/estr.jpg);
+    background-image: url(images/estr.jpg);
     background-position: top left;
     background-repeat: repeat;
 }
@@ -104,7 +104,7 @@ input[id=age], label[for=age]{
 }
 
 .desig{
-    background-image: url(C:/Users/Alguien/Documents/Diego/HMTLCSS/images/cake.jpg);
+    background-image: url(images/cake.jpg);
     font-size: 100%;
     font: inherit;
     margin: 10px 10px 10px 10px;
