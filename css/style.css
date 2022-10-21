@@ -47,17 +47,15 @@ label{
 }
 
 
-h2{
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    color: white;
-    margin: 10px;
-    padding: 2px;
+
+.container{
+    font-family: 'Comic Sans MS';
 }
+
 
 body{
     background-color: dimgray;
-    background-image: url(HTML-CSS-COURSE/images/estr.jpg);
+    background-image: url(C:/Users/Alguien/Documents/Diego/HMTLCSS/boot/images/estr.jpg);
     background-position: top left;
     background-repeat: repeat;
 }
@@ -91,7 +89,7 @@ input[id=age], label[for=age]{
 .main-content{
     text-align: center;
     padding: 20px;
-    border: 2px dashed #000000;
+    border: 2px dashed #df1414;
     margin: 30px auto 0 auto;
     width: 500px;
 }
@@ -104,7 +102,7 @@ input[id=age], label[for=age]{
 }
 
 .desig{
-    background-image: url(images/cake.jpg);
+    background-image: url(C:/Users/Alguien/Documents/Diego/HMTLCSS/images/cake.jpg);
     font-size: 100%;
     font: inherit;
     margin: 10px 10px 10px 10px;
@@ -113,8 +111,8 @@ input[id=age], label[for=age]{
     font-size: 16px;
     font-style: italic;
     text-transform: uppercase;
-    border: 2px dashed #140303;
-    color: black;
+    border: 2px dashed #19f312;
+    color: rgb(255, 255, 255);
 }
 
 .legal{
