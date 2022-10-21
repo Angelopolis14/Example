@@ -1,0 +1,157 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+
+}
+
+.header{
+    padding: 5px;
+    margin: 2px;
+    font-size: 36px;
+    color: white;
+    text-align: center;
+}
+
+.contened-section{
+    padding: 30px;
+    font-size: 24px;
+    font-family: 'Comic Sans MS';
+    font-size: small;
+    font-style: italic;
+    color: black;
+}
+
+.contened-section h1{
+    color: black;
+}
+
+.contened-section h2{
+    color: black;
+}
+
+input[type=submit]{
+    margin: 10px;
+    color: brown;
+    font-size: 20px;
+    text-align: center;
+}
+
+label{  
+    margin: 10px;
+    font-family: 'Comic Sans MS';
+    font-size: small;
+    font-style: italic;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    margin: 10px;
+    padding: 2px;
+}
+
+body{
+    background-color: dimgray;
+    background-image: url(C:/Users/Alguien/Documents/Diego/HMTLCSS/boot/images/estr.jpg);
+    background-position: top left;
+    background-repeat: repeat;
+}
+
+form{
+    text-align: center;
+    background: transparent;
+}
+
+img{
+    padding: 10px;
+}
+
+label, input{
+    font-size: 20px;
+    text-align: center;
+}
+
+input[id=name], label[for=name]{
+    display: inline;
+    text-align: center;
+}
+
+input[id=age], label[for=age]{
+    display: inline;
+    text-align: center;
+}
+
+
+
+.main-content{
+    text-align: center;
+    padding: 20px;
+    border: 2px dashed #000000;
+    margin: 30px auto 0 auto;
+    width: 500px;
+}
+
+.nav{
+    padding-left: 10px;
+    margin: 10px;
+    text-align: center;
+    
+}
+
+.desig{
+    background-image: url(C:/Users/Alguien/Documents/Diego/HMTLCSS/images/cake.jpg);
+    font-size: 100%;
+    font: inherit;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    font-style: italic;
+    text-transform: uppercase;
+    border: 2px dashed #140303;
+    color: black;
+}
+
+.legal{
+    color: white;
+}
+
+.legal h1{
+    color: white;
+}
+
+.recipes{
+    color: white;
+}
+
+.recipes h1{
+    color: white;
+}
+
+.suggest{
+    color: white;
+}
+
+.suggest h1{
+    color: white;
+}
+
+.nav a:visited{
+    color: black;
+    background-color: transparent;
+}
+
+.nav a:active{
+    color: blue;
+    background-color: transparent;
+}
+
+.invalid-feedback{
+    color: white;
+}
+
