@@ -5,10 +5,6 @@ html, body, h1, h2, h3, h4, ul, ol, li, p, a {
 
 }
 
-html{
-    backgroun-color: aqua;
-}
-
 .header{
     padding: 5px;
     margin: 2px;
