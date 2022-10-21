@@ -22,13 +22,6 @@ html, body, h1, h2, h3, h4, ul, ol, li, p, a {
     color: black;
 }
 
-.contened-section h1{
-    color: black;
-}
-
-.contened-section h2{
-    color: black;
-}
 
 input[type=submit]{
     margin: 10px;
